@@ -1,0 +1,18 @@
+A:\Projects\Alpha3\CRUD\alpha 3 CRUD\alpha 3 CRUD\bin\Debug\net8.0\alpha 3 CRUD.exe
+A:\Projects\Alpha3\CRUD\alpha 3 CRUD\alpha 3 CRUD\bin\Debug\net8.0\alpha 3 CRUD.deps.json
+A:\Projects\Alpha3\CRUD\alpha 3 CRUD\alpha 3 CRUD\bin\Debug\net8.0\alpha 3 CRUD.runtimeconfig.json
+A:\Projects\Alpha3\CRUD\alpha 3 CRUD\alpha 3 CRUD\bin\Debug\net8.0\alpha 3 CRUD.dll
+A:\Projects\Alpha3\CRUD\alpha 3 CRUD\alpha 3 CRUD\bin\Debug\net8.0\alpha 3 CRUD.pdb
+A:\Projects\Alpha3\CRUD\alpha 3 CRUD\alpha 3 CRUD\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+A:\Projects\Alpha3\CRUD\alpha 3 CRUD\alpha 3 CRUD\bin\Debug\net8.0\MySqlConnector.dll
+A:\Projects\Alpha3\CRUD\alpha 3 CRUD\alpha 3 CRUD\obj\Debug\net8.0\alpha 3 CRUD.csproj.AssemblyReference.cache
+A:\Projects\Alpha3\CRUD\alpha 3 CRUD\alpha 3 CRUD\obj\Debug\net8.0\alpha 3 CRUD.GeneratedMSBuildEditorConfig.editorconfig
+A:\Projects\Alpha3\CRUD\alpha 3 CRUD\alpha 3 CRUD\obj\Debug\net8.0\alpha 3 CRUD.AssemblyInfoInputs.cache
+A:\Projects\Alpha3\CRUD\alpha 3 CRUD\alpha 3 CRUD\obj\Debug\net8.0\alpha 3 CRUD.AssemblyInfo.cs
+A:\Projects\Alpha3\CRUD\alpha 3 CRUD\alpha 3 CRUD\obj\Debug\net8.0\alpha 3 CRUD.csproj.CoreCompileInputs.cache
+A:\Projects\Alpha3\CRUD\alpha 3 CRUD\alpha 3 CRUD\obj\Debug\net8.0\alpha 3 CRUD.csproj.CopyComplete
+A:\Projects\Alpha3\CRUD\alpha 3 CRUD\alpha 3 CRUD\obj\Debug\net8.0\alpha 3 CRUD.dll
+A:\Projects\Alpha3\CRUD\alpha 3 CRUD\alpha 3 CRUD\obj\Debug\net8.0\refint\alpha 3 CRUD.dll
+A:\Projects\Alpha3\CRUD\alpha 3 CRUD\alpha 3 CRUD\obj\Debug\net8.0\alpha 3 CRUD.pdb
+A:\Projects\Alpha3\CRUD\alpha 3 CRUD\alpha 3 CRUD\obj\Debug\net8.0\alpha 3 CRUD.genruntimeconfig.cache
+A:\Projects\Alpha3\CRUD\alpha 3 CRUD\alpha 3 CRUD\obj\Debug\net8.0\ref\alpha 3 CRUD.dll
